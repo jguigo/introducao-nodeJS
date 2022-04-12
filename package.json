@@ -1,0 +1,27 @@
+{
+  "name": "pergunta-respota-nodejs",
+  "version": "1.0.0",
+  "description": "Pacote que ira testar o funcionamento do npm.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jguigo/introducao-nodeJS.git"
+  },
+  "keywords": [
+    "url",
+    "pergunta",
+    "respota"
+  ],
+  "author": "Guilherme Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jguigo/introducao-nodeJS/issues"
+  },
+  "homepage": "https://github.com/jguigo/introducao-nodeJS#readme",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
+}
